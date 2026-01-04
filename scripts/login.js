@@ -7,7 +7,7 @@ const AUTH_TOKEN = "";
 
 
 const user = "cminer001@proton.me";
-const pass = "&GczPR*jq7Uy%7Gu@Ze%Nu6bMC4w#upJYBB2S*uT2G5&guPV9Hcd%cpv%s*r";
+const pass = "";
 const authy = process.argv.slice(2);
 
 async function killChromium() {
